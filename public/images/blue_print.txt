@@ -1,0 +1,34 @@
+PERSONAL INFORMATION:
+1. First Name			Middle Name			Last Name
+2. Father's Name			Mother's Name
+3. Landline Number			Mobile Number
+4. Date of Birth			Place Of Birth
+5. Select Gender
+6. Highest Qualification		Year of Passing
+7. Languages Known
+8. Select your Hobbies
+9. About Yourself
+10. Nationality
+11. Aadhar Card Number		Pan Card Number
+12. Aadhar Upload			Photo Upload			Pan Upload
+
+EDUCATIONAL DETAILS
+Sno	Qualification	Institute/University		Year of Passing	 Marks(%)	Upload Marksheet	
+1
+2
+3
+4
+WORK QUALIFICATIONS
+Sno	Company Name	Work Role	From Date	To Date
+1
+2
+3
+4
+
+OTHER DETAILS
+1. Job Type
+2. Date of Joining		Time of Joining
+3. Preferred Work Location
+4. Willing to Relocate to the Location
+5. Self Declaration
+6. Submit		Reset

@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    font-family: Bahnschrift,sans-serif;
+    text-shadow: 0 0 4px black;
+    font-size: 35px;
+}
+legend{
+    background-image: url("images/background1.jpg");
+    padding: 15px;
+    font-family: Bahnschrift,sans-serif;
+    font-size: 25px;
+    border: 5px solid black;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 0 0 5px black;
+    color:whitesmoke;
+}
+fieldset{
+    background-color: rgba(0,0,0,0.5);
+    border: 5px solid black;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 0 0 10px white;
+}
+table{
+    width: 100%;
+}
+td{
+    font-size: 15px;
+    padding: 5px;
+}
+span{
+    color: red;
+}
+input[type="text"],
+input[type="month"],
+input[type="number"],
+input[type="date"],
+input[type="time"],
+input[type="file"],
+select{
+    height: 35px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+textarea{
+    width: 210px;
+    height: 80px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.button{
+    background-image: url("images/background2.jpg");
+    color:lightseagreen;
+    font-family: Bahnschrift,sans-serif;
+    padding: 10px 50px;/*top-bottom left-right*/
+    border: 2px solid white;
+    outline: none;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    font-size: 20px;
+    margin: 15px;
+}
+/* apply focus to all the input box and textarea */
+input[type="text"]:focus,
+input[type="month"]:focus,
+input[type="number"]:focus,
+input[type="date"]:focus,
+input[type="time"]:focus,
+input[type="file"]:focus,
+textarea:focus{
+    background-color: sandybrown;
+    box-shadow: 0 0 5px white;
+}
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    background-image: url("images/background4.jpg");
+    background-attachment: scroll;
+    color: cyan;
+}
